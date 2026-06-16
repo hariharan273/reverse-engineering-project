@@ -1,1 +1,0 @@
-Developer -> GitHub -> GitHub Actions -> Jenkins -> Docker -> Production Server -> End Users
