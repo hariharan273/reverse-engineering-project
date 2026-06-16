@@ -1,0 +1,5 @@
+1. Push code
+2. Run tests
+3. Build
+4. Create Docker image
+5. Deploy
